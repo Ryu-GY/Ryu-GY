@@ -19,19 +19,32 @@
   
   ### Framework
   <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=PyTorch&logoColor=white"/>
+ <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
   <!--ROS-->
-  <img src="https://img.shields.io/badge/ROS-F7DF1E?style=flat-square&logo=ROS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ros-%2322314E.svg?&style=for-the-badge&logo=ros&logoColor=white" />
   
   ### ETC
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <!--Azure-->
-  <img src="https://img.shields.io/badge/MicrosoftAzure-1279A1?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/microsoft%20azure-%230089D6.svg?&style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
   <br/>
   <br/>
   
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryu-GY&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryu-GY&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryu-GY/Ryu-GY/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryu-GY/Ryu-GY/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ryu-GY/Ryu-GY/output/pacman-contribution-graph.svg">
+</picture>
+
+###
   
   
 </div>
