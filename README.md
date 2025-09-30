@@ -40,9 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ryu-GY/Ryu-GY/output/snake.svg" alt="Snake animation" />
 
-###
   
   
 </div>
