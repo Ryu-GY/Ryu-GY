@@ -7,7 +7,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a AI and Backend developer
-  #### 📞: a56322505@gmail.com
+  #### 📞 a56322505@gmail.com
   #### :mortar_board: ROBOTICS
   <br/>
   <br/>
@@ -15,7 +15,7 @@
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 
   <br/>
   
@@ -27,7 +27,7 @@
   
   ### ETC
   <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
   <!--Azure-->
   <img src="https://img.shields.io/badge/microsoft%20azure-%230089D6.svg?&style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
   <br/>
