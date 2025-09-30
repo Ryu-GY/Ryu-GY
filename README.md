@@ -23,15 +23,15 @@ fl<div>
   
   ### Framework
   <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=PyTorch&logoColor=white"/>
   <!--ROS-->
-  <img src="https://img.shields.io/badge/ROS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-F7DF1E?style=flat-square&logo=ROS&logoColor=white"/>
   
   ### ETC
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <!--Azure-->
-  <img src="https://img.shields.io/badge/Azure-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-1279A1?style=flat-square&logo=Azure&logoColor=white"/>
   <br/>
   <br/>
   
