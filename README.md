@@ -31,7 +31,7 @@ fl<div>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <!--Azure-->
-  <img src="https://img.shields.io/badge/Azure-1279A1?style=flat-square&logo=Azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MicrosoftAzure-1279A1?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
   <br/>
   <br/>
   
